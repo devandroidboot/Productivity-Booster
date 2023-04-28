@@ -18,6 +18,4 @@ Tech Stack
 
 ![BeFunky-collage](https://user-images.githubusercontent.com/109771302/235226877-394c3599-b8c9-434a-a271-a79ced972290.jpg)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENCE](LICENCE.txt) file for details.
